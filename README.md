@@ -1,6 +1,6 @@
 # Custom DataTable
 
-A new Flutter project.
+A custom DataTable with two directional scrolling with flutter.
 
 ## Getting Started
 
